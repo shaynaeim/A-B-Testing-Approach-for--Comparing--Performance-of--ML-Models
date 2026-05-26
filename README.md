@@ -1,4 +1,3 @@
-![Project architecture](assets/architecture.png)
 
 ## Project summary
 This project compares the practical performance of two extractive question-answering (QA) models on the SQuAD 2.0 dataset: **BERT** and **DistilBERT**. It evaluates model quality (Exact Match / F1, including answerable vs. unanswerable questions) alongside **latency**, and demonstrates an A/B-testing-style decision process for choosing a model for deployment.
